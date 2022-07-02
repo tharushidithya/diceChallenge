@@ -4,11 +4,11 @@
   text-align: center;
 }
 
-.dice {
+/* .dice {
   text-align: center;
   display: inline-block;
 
-}
+} */
 
 body {
   background-color: #393E46;
@@ -29,7 +29,9 @@ p {
 }
 
 img {
-  width: 80%;
+  width: 15%;
+  
+
 }
 
 footer {
